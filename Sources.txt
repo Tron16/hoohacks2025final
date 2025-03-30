@@ -1,0 +1,4 @@
+Sources:
+Replit Agent (gen ai code) - used for backend and debugging
+chat gpt 
+twillio and openai api documentations
